@@ -17,6 +17,7 @@ which is the body of the message.
 It must be one of the following:
 
 * **feature:** For new features.
+* **build:** For changes that affect the build process or external dependencies.
 * **fix:** For bug fixes.
 * **style:** For UI/UX changes.
 * **document:** To document the code.
