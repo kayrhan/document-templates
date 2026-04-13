@@ -1,0 +1,96 @@
+{
+  "repository": "kayrhan/vocabulary",
+  "exported_at": "2026-04-13T20:42:35+03:00",
+  "labels": [
+    {
+      "name": "Bug",
+      "color": "d73a4a",
+      "description": "Something is not working!",
+      "default": false
+    },
+    {
+      "name": "Completed",
+      "color": "0e8a16",
+      "description": "The issue is complete.",
+      "default": false
+    },
+    {
+      "name": "Design",
+      "color": "a855f7",
+      "description": "The issue is related to UI/UX design or layout problems.",
+      "default": false
+    },
+    {
+      "name": "Documentation",
+      "color": "6b7280",
+      "description": "The issue is related to missing or outdated documentation.",
+      "default": false
+    },
+    {
+      "name": "Duplication",
+      "color": "94a3b8",
+      "description": "This issue, or pull request, already exists!",
+      "default": false
+    },
+    {
+      "name": "Enhancement",
+      "color": "c56a00",
+      "description": "Similar to feature requests, but for improving existing features rather than adding new ones.",
+      "default": false
+    },
+    {
+      "name": "Feature Request",
+      "color": "d4ac0d",
+      "description": "This label is for suggestions or requests for new features.",
+      "default": false
+    },
+    {
+      "name": "In Progress",
+      "color": "1d76db",
+      "description": "Signals that someone is actively working on the issue.",
+      "default": false
+    },
+    {
+      "name": "Needs Review",
+      "color": "9aa522",
+      "description": "Signals that someone needs to review the issue or that the team must give feedback.",
+      "default": false
+    },
+    {
+      "name": "On Hold",
+      "color": "8da2c0",
+      "description": "Further action is needed.",
+      "default": false
+    },
+    {
+      "name": "Optimization",
+      "color": "b65c3a",
+      "description": "The issue is related to optimising performance or resource usage.",
+      "default": false
+    },
+    {
+      "name": "Question",
+      "color": "d876e3",
+      "description": "Signals that someone needs clarification rather than bug reports or feature requests.",
+      "default": false
+    },
+    {
+      "name": "Security",
+      "color": "b60205",
+      "description": "To highlight security-related issues that need to be addressed promptly.",
+      "default": false
+    },
+    {
+      "name": "Testing",
+      "color": "0e8a8a",
+      "description": "This indicates that the issue is being tested.",
+      "default": false
+    },
+    {
+      "name": "Won't Fix",
+      "color": "8b949e",
+      "description": "Indicates that the issue has been identified but will not be addressed for some reason.",
+      "default": false
+    }
+  ]
+}
