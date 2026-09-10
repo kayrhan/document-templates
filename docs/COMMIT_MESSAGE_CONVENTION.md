@@ -23,6 +23,8 @@ It must be one of the following:
 * **document:** To document the code.
 * **test:** To add, delete, or update the tests of the code.
 * **refactor:** For changes that neither fixes a bug nor adds a feature. Changes that do not affect the meaning of the code (white-space, formatting, missing semicolons, etc.) also should be evaluated under this type.
+* **security:** For changes that affect safety of the code.
+* **performance:** For changes that aim to improve performance of the code without changing the workflow.
 
 ## Revert
 
